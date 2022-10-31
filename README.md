@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## :sassy_man:  About me
 - :school: I am a `final year Student` at Institute of Engineering and Technology, Lucknow `(Graduation year-2023)`
 - :technologist: I love using Software as a solution for every `Problem`
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1KkivZtIAwHyuRZTZA-p8aRcKUW0fuvdd/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://tinyurl.com/shashank-taliwal-iet-resume).
 - :nerd_face: Always `learning new things`
 
 <br>
